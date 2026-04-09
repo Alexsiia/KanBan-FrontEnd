@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # KanBan-FrontEnd
 =======
 # Kanban Frontend
@@ -6,7 +5,7 @@
 Sistema Kanban colaborativo multi-board — Frontend desenvolvido em Next.js + TypeScript.
 
 **Backend utilizado:** `http://alexsia.flashnetbrasil.com.br/api/v1`
-
+**Acesso Figma** https://www.figma.com/design/hvvsr1ziLv1kUuGFyKqAvH/KanBan?node-id=2-547&m=dev&t=TKjyOSaHbzl1ussV-1
 ---
 
 ## ✅ Funcionalidades Implementadas
